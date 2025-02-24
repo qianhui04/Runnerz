@@ -1,0 +1,84 @@
+{
+    "runs": [
+        {
+            "id": 1,
+            "title": "Morning Run",
+            "startedOn": "2024-03-01T06:00:00.000000",
+            "completedOn": "2024-03-01T07:00:00.000000",
+            "miles": 5,
+            "location": "INDOOR"
+        },
+        {
+            "id": 2,
+            "title": "Afternoon Run",
+            "startedOn": "2024-03-02T12:00:00.000000",
+            "completedOn": "2024-03-02T13:00:00.000000",
+            "miles": 7,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 3,
+            "title": "Evening Run",
+            "startedOn": "2024-03-03T18:00:00.000000",
+            "completedOn": "2024-03-03T19:00:00.000000",
+            "miles": 10,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 4,
+            "title": "Night Run",
+            "startedOn": "2024-03-04T20:00:00.000000",
+            "completedOn": "2024-03-04T21:00:00.000000",
+            "miles": 8,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 5,
+            "title": "Midnight Run",
+            "startedOn": "2024-03-05T23:00:00.000000",
+            "completedOn": "2024-03-06T00:00:00.000000",
+            "miles": 6,
+            "location": "INDOOR"
+        },
+        {
+            "id": 6,
+            "title": "Morning Run",
+            "startedOn": "2024-03-06T06:00:00.000000",
+            "completedOn": "2024-03-06T07:00:00.000000",
+            "miles": 5,
+            "location": "INDOOR"
+        },
+        {
+            "id": 7,
+            "title": "Afternoon Run",
+            "startedOn": "2024-03-07T12:00:00.000000",
+            "completedOn": "2024-03-07T13:00:00.000000",
+            "miles": 7,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 8,
+            "title": "Evening Run",
+            "startedOn": "2024-03-08T18:00:00.000000",
+            "completedOn": "2024-03-08T19:00:00.000000",
+            "miles": 10,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 9,
+            "title": "Night Run",
+            "startedOn": "2024-03-09T20:00:00.000000",
+            "completedOn": "2024-03-09T21:00:00.000000",
+            "miles": 8,
+            "location": "OUTDOOR"
+        },
+        {
+            "id": 10,
+            "title": "Midnight Run",
+            "startedOn": "2024-03-10T23:00:00.000000",
+            "completedOn": "2024-03-11T00:00:00.000000",
+            "miles": 6,
+            "location": "INDOOR"
+        }
+    ]
+}
